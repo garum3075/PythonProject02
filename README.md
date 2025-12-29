@@ -1,6 +1,6 @@
-## 使用巴哈姆特動畫瘋冒險類動畫的資料進行爬蟲 / 運用python和pandas進行資料處理
+## 使用巴哈姆特動畫瘋冒險類動畫的資料進行爬蟲 /<br>運用python和pandas進行資料處理
 
-### AdventureAnimation.py / adventure_animation_list.json / adventure_animation_list(en).json
+### AdventureAnimation.py /<br>adventure_animation_list.json / adventure_animation_list(en).json
 <table>
     <thead>
         <tr>
