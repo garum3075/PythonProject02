@@ -1,6 +1,6 @@
-## 使用巴哈姆特動畫瘋冒險類動畫的資料進行爬蟲 /<br>運用python和pandas進行資料處理
+# 使用巴哈姆特動畫瘋冒險類動畫的資料進行爬蟲 /<br>運用python和pandas進行資料處理
 
-### AdventureAnimation.py /<br>adventure_animation_list.json / adventure_animation_list(en).json
+## AdventureAnimation.py /<br>adventure_animation_list.json / adventure_animation_list(en).json
 <table>
     <thead>
         <tr>
@@ -44,7 +44,10 @@
     </tbody>
 </table>
 
-### AdventureAnimation.html
+## AdventureAnimation.html
+
+### ---展示圖01---
+<img src="https://github.com/user-attachments/assets/3f645085-555e-4f65-92aa-da6bb2299a4c">
 <table>
     <thead>
         <tr>
@@ -87,9 +90,6 @@
                 <br>
                 3. 經過第2點後發現資料處理繁瑣，上網後發現資料都要進行清洗，所以就暫停Chartjs的使用並開始進行資料清洗
             </td>
-展示圖01
-            <img src="https://github.com/user-attachments/assets/3f645085-555e-4f65-92aa-da6bb2299a4c">
-<hr>
         </tr>
     </tbody>
 </table>
