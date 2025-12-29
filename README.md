@@ -1,0 +1,2 @@
+# project02
+運用巴哈姆特動畫瘋的資料進行爬蟲，運用python和pandas進行資料處理
