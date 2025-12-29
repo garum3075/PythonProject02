@@ -87,8 +87,9 @@
                 <br>
                 3. 經過第2點後發現資料處理繁瑣，上網後發現資料都要進行清洗，所以就暫停Chartjs的使用並開始進行資料清洗
             </td>
-            <td> 範例圖 </td>
+展示圖01
             <img src="https://github.com/user-attachments/assets/3f645085-555e-4f65-92aa-da6bb2299a4c">
+<hr>
         </tr>
     </tbody>
 </table>
