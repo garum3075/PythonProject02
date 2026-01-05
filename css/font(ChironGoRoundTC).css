@@ -1,0 +1,39 @@
+        /* 偏圓體、字體粗細變化多 */
+        
+        @import url('https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@200..900&display=swap');
+
+        body {
+            font-family: "Chiron GoRound TC", sans-serif;
+        }
+
+        .fw-200 {
+            font-weight: 200;
+        }
+
+        .fw-300 {
+            font-weight: 300;
+        }
+
+        .fw-400 {
+            font-weight: 400;
+        }
+
+        .fw-500 {
+            font-weight: 500;
+        }
+
+        .fw-600 {
+            font-weight: 600;
+        }
+
+        .fw-700 {
+            font-weight: 700;
+        }
+
+        .fw-800 {
+            font-weight: 800;
+        }
+
+        .fw-900 {
+            font-weight: 900;
+        }
